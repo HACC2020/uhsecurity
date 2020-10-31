@@ -1,0 +1,18 @@
+Things to do:
+1. web - php/html
+	a. ui design
+2. db design
+3. video - Denny
+4. Integration testing - Stef
+
+
+Skills - 
+	Josh - web development, UI Design
+	Denny - video production, ui design
+	Hal - 
+	Allen - SQL
+	Daniel - video production, ui design
+	Stef - SQL DB management, UI design
+	Ramesh - SQL
+	PT - 
+	
